@@ -1,7 +1,11 @@
 # Just trying to code... 💻  
 Just here to learn, build, and experiment with tech. No fancy stuff, just coding. 👨‍💻
 
-### A super-duper *_BAD_* joke:
+# What I'm doing rn? 📀
+- Switching from Windows to Linux
+  - (*I use Debian btw*)
+
+#### A super-duper *_BAD_* joke:
 
 1. Why do programmers prefer dark mode?  
 2. Because the light attracts bugs. 🐛
