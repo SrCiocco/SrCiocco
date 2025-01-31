@@ -5,7 +5,7 @@ Just here to learn, build, and experiment with tech. No fancy stuff, just coding
 - Switching from Windows to Linux
   - ~~(*I use Debian btw*)~~
   - (*I use Arch btw*)
-  - 
+  
 #### A super-duper *_BAD_* joke:
 
 1. Why do programmers prefer dark mode?  
