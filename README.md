@@ -1,7 +1,9 @@
-# Just trying to code... 💻  
+# I'm in love 💘 (no bitches allowed)
+
+## Just trying to code... 💻  
 Just here to learn, build, and experiment with tech. No fancy stuff, just coding. 👨‍💻
 
-# What I'm doing rn? 📀
+## What I'm doing rn? 📀
 - Switching from Windows to Linux
   - ~~(*I use Debian btw*)~~
   - (*I use Arch btw*)
@@ -14,7 +16,7 @@ Just here to learn, build, and experiment with tech. No fancy stuff, just coding
 I hope that made u laugh! (at least just a smile)
 
 
-# Contact 💬  
+## Contact 💬  
 I eagerly await your message about coding and teaching me stuff! 😊
 
 Feel free to contact me via *_DISCORD_*: `ciocco`  
