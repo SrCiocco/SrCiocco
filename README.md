@@ -1,4 +1,4 @@
-# I'm in love 💘 (no bitches allowed)
+# I'm in love 💘 (no bitches allowed, I'm actually married.)
 
 ## Just trying to code... 💻  
 Just here to learn, build, and experiment with tech. No fancy stuff, just coding. 👨‍💻
