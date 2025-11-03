@@ -14,9 +14,3 @@ Just here to learn, build, and experiment with tech. No fancy stuff, just coding
 2. Because the light attracts bugs. 🐛
 
 I hope that made u laugh! (at least just a smile)
-
-
-## Contact 💬  
-I eagerly await your message about coding and teaching me stuff! 😊
-
-Feel free to contact me via *_DISCORD_*: `srciocco`  
